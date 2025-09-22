@@ -10,7 +10,7 @@
 
 <script>
 export default{
-    pros:{
+    props:{
         name:String,
         description:String,
         price:Number,
