@@ -12,7 +12,7 @@ image="https://recommerce.com.ua/static/kozachok.reshop.com.ua/catalog/381/19571
 
 <script>
 import ProductList from './components/ProductList.vue';
-import ReviewsComponent from '/.components/ReviewsComponent.vue';
+import ReviewsComponent from './components/ReviewsComponent.vue';
 
 export default {
   components: {
