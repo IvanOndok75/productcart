@@ -5,7 +5,7 @@
 </template>
 
 <script>
-<impor ReviewsComponent from '../components/ReviewsComponent.vue';
+import ReviewsComponent from '../components/ReviewsComponent.vue';
 
 export default{
     components:{

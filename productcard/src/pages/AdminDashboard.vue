@@ -12,7 +12,7 @@
 </template>
 
 <script>
-expoet default{
-    name:'AdminDashbard',
-}
-</cript>
+export default{
+    name:'AdminDashboard',
+};
+</script>

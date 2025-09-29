@@ -7,8 +7,6 @@
 </template>
 
 <script>
-import ProductList from './components/ProductList.vue';
-import ReviewsComponent from './components/ReviewsComponent.vue';
 
 export default {
   components: {
