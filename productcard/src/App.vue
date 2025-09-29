@@ -1,5 +1,7 @@
 <template>
 <div id="app">
+<router-vue>
+</router-vue>
 
 </div>
 </template>
@@ -10,8 +12,7 @@ import ReviewsComponent from './components/ReviewsComponent.vue';
 
 export default {
   components: {
-    ProductList,
-    ReviewsComponent,
+  
   }
 };
 </script>
