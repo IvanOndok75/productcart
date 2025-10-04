@@ -23,7 +23,7 @@ children: [
 ];
 
 const router = createRouter({
-history: createWebHistory('/productcard/'), // Вказуємо базовий шлях для GitHub Pages
+history: createWebHistory('/productcart/'), // Вказуємо базовий шлях для GitHub Pages
 routes,
 });
 
