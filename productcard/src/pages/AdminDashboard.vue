@@ -6,7 +6,7 @@
 </nav>
 
 <main>
-<router-vue/>
+<router-view/>
 </main>
 </div>
 </template>
